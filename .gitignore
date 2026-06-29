@@ -1,0 +1,19 @@
+# Xcode / build artifacts
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# This project is NOT XcodeGen-managed — project.pbxproj IS tracked (it's the
+# source of truth for the synchronized file group + build settings).
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+
+# Tooling / local
+.beacode/
+CLAUDE.md

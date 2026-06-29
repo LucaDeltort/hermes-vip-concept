@@ -1,0 +1,20 @@
+[
+  {
+    "id": "evt-001",
+    "title": "Vernissage — Hermès dans tous les sens",
+    "location": "Palais de Tokyo, Paris",
+    "date": "2026-07-12T19:00:00Z",
+    "summary": "Une exposition immersive célébrant l'artisanat de la maison, suivie d'un cocktail privé.",
+    "eyebrow": "SUR INVITATION",
+    "imageAsset": "luxe-ressent"
+  },
+  {
+    "id": "evt-002",
+    "title": "Atelier carré de soie",
+    "location": "Hermès — 24 Faubourg",
+    "date": "2026-07-29T15:00:00Z",
+    "summary": "Apprenez l'art du nouage en compagnie d'un artisan de la maison.",
+    "eyebrow": "ATELIER PRIVÉ",
+    "imageAsset": "carre-90-grand-galop-0"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "souv-001",
+    "title": "Défilé Hiver",
+    "caption": "Photos souvenirs · Décembre 2025",
+    "photoAssets": [
+      "carre-90-grand-galop-0",
+      "faubourg-express-0",
+      "sac-hermes-in-the-loop-18-"
+    ]
+  },
+  {
+    "id": "souv-002",
+    "title": "Dîner privé au Faubourg",
+    "caption": "Photos souvenirs · Septembre 2025",
+    "photoAssets": [
+      "carre-140-le-pegase-d-hermes-0",
+      "sandales-izmir-0",
+      "bracelet-clic-clou-de-selle-0"
+    ]
+  }
+]

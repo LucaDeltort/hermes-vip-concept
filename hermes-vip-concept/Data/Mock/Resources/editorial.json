@@ -1,0 +1,16 @@
+[
+  {
+    "id": "edt-001",
+    "eyebrow": "L'ATELIER",
+    "title": "La main et la matière",
+    "quote": "« Le luxe, c'est ce qui ne se voit pas mais qui se ressent. »",
+    "imageAsset": "luxe-ressent"
+  },
+  {
+    "id": "edt-002",
+    "eyebrow": "SAVOIR-FAIRE",
+    "title": "Le cuir, du tannage au point sellier",
+    "quote": "« Une seule artisane, un seul sac, du premier au dernier point. »",
+    "imageAsset": "sac-femme"
+  }
+]
